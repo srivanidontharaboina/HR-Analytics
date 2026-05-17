@@ -220,4 +220,4 @@ Calculates total sick days taken by employees hired in 2013.
 
 # Author
 
-Created for HR Analytics and Employee Insights reporting using SQL.
+Created for HR Analytics and Employee Insights reporting using SQL Project by Srivani dontharaboina
